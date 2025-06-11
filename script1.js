@@ -43,7 +43,7 @@ document.addEventListener('click', (e) => {
 });
 
 function downloadCV() {
-    const cvUrl = './may23resume.pdf'; 
+    const cvUrl = './VanshCV.pdf'; 
 
     try {
         const link = document.createElement('a');
